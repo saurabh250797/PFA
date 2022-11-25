@@ -1,0 +1,10 @@
+Package: h20220807
+Type: Package
+Title: Frequently used basic temperatura conversion
+Version: 0.0.1
+Authors@R: person("SAURABH", "KUMAR", email = "h20220807@pilani.bit-pilani.ac.in", role = c("saurabh", "2022H1540807P"))
+Description: This package provides functions to perform temp conversion on R datatype
+Depends: R (>= 3.1.0)
+License: GNU General Public License v3.0
+RoxygenNote: 7.2.1
+Encoding: UTF-8

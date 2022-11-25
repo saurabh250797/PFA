@@ -1,0 +1,10 @@
+Package: statools
+Type: Package
+Title: Frequently used basic Statistics functions
+Version: 0.0.1
+Authors@R: person("SAURABH", "KUMAR", email = "h20220807@pilani.bit-pilani.ac.in", role = c("saurabh", "2022H1540807P"))
+Description: This package provides functions to perform operation such as mode identification, standardization & normalization on R vectors
+Depends: R (>= 3.1.0)
+License: GNU General Public License v3.0
+RoxygenNote: 7.2.2
+Encoding: UTF-8
